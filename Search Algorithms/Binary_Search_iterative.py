@@ -1,5 +1,5 @@
 # condition for binary search is that array should be sorted.
-
+#binary search function
 def binary_search(arr,x):
     L=0
     R=len(arr)-1
